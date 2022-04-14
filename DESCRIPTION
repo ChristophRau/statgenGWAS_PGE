@@ -1,4 +1,4 @@
-Package: statgenGWAS
+Package: statgenGWAS_PGE
 Type: Package
 Title: Genome Wide Association Studies 
 Version: 1.0.8
